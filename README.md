@@ -15,7 +15,19 @@ npm install -g truffle
 
 # install ganache-cli
 npm install -g ganache-cli
+```
 
+### Após editar e criar os arquivos de código abra dois terminais:
+
+>### Primeiro Terminal
+
+```bash
+ganache-cli
+```
+
+>### Segundo Terminal
+
+``bash
 # init
 npm i
 
