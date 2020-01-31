@@ -27,7 +27,7 @@ ganache-cli
 
 >### Segundo Terminal
 
-``bash
+```bash
 # init
 npm i
 
